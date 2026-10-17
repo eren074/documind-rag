@@ -6,6 +6,12 @@ Kullanıcıların yüklediği PDF dokümanlarını örtüşmeli metin parçalar�
 
 ---
 
+## 🖥️ Uygulama Arayüzü
+
+![DocuMind AI Demo](demo.jpg)
+
+---
+
 ## 🎯 Kapsanan Microsoft Kurs Modülleri
 
 | Kurs Modülü | Konu | Projedeki Uygulaması (`src/`) |
